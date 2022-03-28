@@ -1,3 +1,6 @@
 print("Jan Eris Saludo")
 print("Pangi, Gasan, Marinduque")
 print("January 19, 2002")
+print("Marinduque State Collelge")
+print("Bachelor of Science in Information Technology")
+print("2F")
